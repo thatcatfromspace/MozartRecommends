@@ -1,0 +1,8 @@
+# PyCache and virtual environment files
+
+__pycache__
+venv
+
+# Dataset
+
+spotify_data.csv
